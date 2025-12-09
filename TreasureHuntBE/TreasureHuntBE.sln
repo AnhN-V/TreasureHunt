@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt.Api", "TreasureHunt.Api\TreasureHunt.Api.csproj", "{50B6EA9A-27C5-424C-A494-A4A671434929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt.Application", "TreasureHunt.Application\TreasureHunt.Application.csproj", "{E8F544D0-EA1B-4B3C-A669-3A04C6F4110F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt.Domain", "TreasureHunt.Domain\TreasureHunt.Domain.csproj", "{138FB128-2791-4EC6-854E-5CD23F6C4EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt.Infrastructure", "TreasureHunt.Infrastructure\TreasureHunt.Infrastructure.csproj", "{B23E1698-C518-4D64-AC77-9A5D91F46986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50B6EA9A-27C5-424C-A494-A4A671434929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B6EA9A-27C5-424C-A494-A4A671434929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B6EA9A-27C5-424C-A494-A4A671434929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B6EA9A-27C5-424C-A494-A4A671434929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8F544D0-EA1B-4B3C-A669-3A04C6F4110F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8F544D0-EA1B-4B3C-A669-3A04C6F4110F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8F544D0-EA1B-4B3C-A669-3A04C6F4110F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8F544D0-EA1B-4B3C-A669-3A04C6F4110F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{138FB128-2791-4EC6-854E-5CD23F6C4EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138FB128-2791-4EC6-854E-5CD23F6C4EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138FB128-2791-4EC6-854E-5CD23F6C4EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138FB128-2791-4EC6-854E-5CD23F6C4EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23E1698-C518-4D64-AC77-9A5D91F46986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23E1698-C518-4D64-AC77-9A5D91F46986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23E1698-C518-4D64-AC77-9A5D91F46986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23E1698-C518-4D64-AC77-9A5D91F46986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73426BB2-183F-43A3-B466-2E78C67630EE}
+	EndGlobalSection
+EndGlobal

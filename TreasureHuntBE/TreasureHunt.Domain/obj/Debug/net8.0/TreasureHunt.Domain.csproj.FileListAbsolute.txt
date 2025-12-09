@@ -1,0 +1,12 @@
+C:\Users\vieta\OneDrive\Desktop\WorkSpace\Projects\AwingTest\TreasureHuntBE\TreasureHunt.Domain\bin\Debug\net8.0\TreasureHunt.Domain.deps.json
+C:\Users\vieta\OneDrive\Desktop\WorkSpace\Projects\AwingTest\TreasureHuntBE\TreasureHunt.Domain\bin\Debug\net8.0\TreasureHunt.Domain.dll
+C:\Users\vieta\OneDrive\Desktop\WorkSpace\Projects\AwingTest\TreasureHuntBE\TreasureHunt.Domain\bin\Debug\net8.0\TreasureHunt.Domain.pdb
+C:\Users\vieta\OneDrive\Desktop\WorkSpace\Projects\AwingTest\TreasureHuntBE\TreasureHunt.Domain\obj\Debug\net8.0\TreasureHunt.Domain.csproj.AssemblyReference.cache
+C:\Users\vieta\OneDrive\Desktop\WorkSpace\Projects\AwingTest\TreasureHuntBE\TreasureHunt.Domain\obj\Debug\net8.0\TreasureHunt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vieta\OneDrive\Desktop\WorkSpace\Projects\AwingTest\TreasureHuntBE\TreasureHunt.Domain\obj\Debug\net8.0\TreasureHunt.Domain.AssemblyInfoInputs.cache
+C:\Users\vieta\OneDrive\Desktop\WorkSpace\Projects\AwingTest\TreasureHuntBE\TreasureHunt.Domain\obj\Debug\net8.0\TreasureHunt.Domain.AssemblyInfo.cs
+C:\Users\vieta\OneDrive\Desktop\WorkSpace\Projects\AwingTest\TreasureHuntBE\TreasureHunt.Domain\obj\Debug\net8.0\TreasureHunt.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vieta\OneDrive\Desktop\WorkSpace\Projects\AwingTest\TreasureHuntBE\TreasureHunt.Domain\obj\Debug\net8.0\TreasureHunt.Domain.dll
+C:\Users\vieta\OneDrive\Desktop\WorkSpace\Projects\AwingTest\TreasureHuntBE\TreasureHunt.Domain\obj\Debug\net8.0\refint\TreasureHunt.Domain.dll
+C:\Users\vieta\OneDrive\Desktop\WorkSpace\Projects\AwingTest\TreasureHuntBE\TreasureHunt.Domain\obj\Debug\net8.0\TreasureHunt.Domain.pdb
+C:\Users\vieta\OneDrive\Desktop\WorkSpace\Projects\AwingTest\TreasureHuntBE\TreasureHunt.Domain\obj\Debug\net8.0\ref\TreasureHunt.Domain.dll
