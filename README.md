@@ -1,0 +1,1 @@
+- Edit appsettings.json before compile Backend code
