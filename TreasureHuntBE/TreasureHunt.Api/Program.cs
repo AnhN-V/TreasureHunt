@@ -28,7 +28,22 @@ builder.Services.AddScoped<ITreasureHuntService, TreasureHuntService>();
 builder.Services.AddHttpClient();
 builder.Services.AddHttpContextAccessor();
 var app = builder.Build();
-
+//Auto Migration
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    try
+    {
+        var context = services.GetRequiredService<AppDbContext>();
+        context.Database.Migrate();
+        Console.WriteLine("Database migration completed successfully!");
+    }
+    catch (Exception ex)
+    {
+        var logger = services.GetRequiredService<ILogger<Program>>();
+        logger.LogError(ex, "An error occurred while migrating the database.");
+    }
+}
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
